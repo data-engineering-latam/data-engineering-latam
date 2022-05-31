@@ -1,17 +1,18 @@
-### Hi, I’m @data-engineering-latam
-
-✨ Rumbo a ser la comunidad de datos más grande de LATAM y del mundo. ✨
-Con la motivación de ayudar al crecimiento profecional mediante el aprendizaje distribuido y decentralizado de cada uno de los miembros de la comunidad. 
+### Hola 👋
+Data Engineering Latam es la comunidad de data más grande y chévere de Latinoamérica cuya misión es impulsar el talento de la región mediante la difusión de charlas, workshops, grupos de estudio, ayuda colaborativa y creación de contenidos relevantes.
 
 ¿Te gustaría participar de la comunidad y aprender de la mano de otros entusiastas del mundo de los datos?
 
-- 📈 Linkedin: https://lnkd.in/e6h3ym3
-- 📚 Slack: https://lnkd.in/eV7hgF3
-- ✉ Telegram: https://t.me/dataengineeringlatam
-- 📺 YouTube: https://lnkd.in/e6zwGwx
-- 📸 Instagram: https://www.instagram.com/dataengineeringlatam/
-- 🐦 Twitter: https://twitter.com/DataEngiLATAM
-- 👍 Facebook: https://www.facebook.com/dataengineeringlatam
+Síguenos en nuestras redes oficiales:
+
+📺 YouTube: https://youtube.com/c/dataengineeringlatam?sub_confirmation=1
+🐦 Twitter: https://twitter.com/DataEngiLATAM
+📸 Instagram: https://instagram.com/dataengineeringlatam
+👍 Facebook: https://facebook.com/dataengineeringlatam
+🎼 TikTok https://www.tiktok.com/@dataengineeringlatam
+📚 Slack: https://bit.ly/dataengineeringlatam_slack
+✉ Telegram: https://t.me/dataengineeringlatam
+📈 Linkedin: https://linkedin.com/company/data-engineering-latam
 
 
 ¿Quieres dar charla en la comunidad? Bienvenidos todos los que quieran participar compartiendo conocimiento:
@@ -20,12 +21,14 @@ Con la motivación de ayudar al crecimiento profecional mediante el aprendizaje 
 
 Grupos de Estudios:
 
-Telegram: https://t.me/dataengineeringlatam
 - 🎤 English speaking and stuff
-- 🎤 DAMA's Study Group (Data Management)
-- 🎤 Databricks Certified Associate
-- 🎤 Apache Airflow Study Club
-- 🎤 Power BI como debe ser
+- 🎤 DAMA (Data Management)
+- 🎤 Apache Spark
+- 🎤 Databricks
+- 🎤 Airflow
+- 🎤 Power BI
+- 🎤 AWS
+- 🎤 Azure
 - 🎤 Club de Lectura / Designing data-intensive Applications 🐗
 
 📢 ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
