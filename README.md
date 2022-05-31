@@ -6,12 +6,19 @@ Data Engineering Latam es la comunidad de data más grande y chévere de Latinoa
 Síguenos en nuestras redes oficiales:
 
 📺 YouTube: https://youtube.com/c/dataengineeringlatam?sub_confirmation=1
+
 🐦 Twitter: https://twitter.com/DataEngiLATAM
+
 📸 Instagram: https://instagram.com/dataengineeringlatam
+
 👍 Facebook: https://facebook.com/dataengineeringlatam
+
 🎼 TikTok https://www.tiktok.com/@dataengineeringlatam
+
 📚 Slack: https://bit.ly/dataengineeringlatam_slack
+
 ✉ Telegram: https://t.me/dataengineeringlatam
+
 📈 Linkedin: https://linkedin.com/company/data-engineering-latam
 
 
