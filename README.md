@@ -36,4 +36,6 @@ Data Engineering Latam es la comunidad de data más grande y chévere de Latinoa
 
 Coméntanos [aquí](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
+---
+
 :loudspeaker: ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
